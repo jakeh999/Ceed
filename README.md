@@ -13,6 +13,7 @@ The Ceed is a Raspberry Pi-based project for the frontrunners of the green energ
 * 1 HC-SR04 Ultrasonic Sensor
 * [6x 16mm Pushbuttons](http://adafru.it/1504)
 * Connection wires
+![alt text](https://github.com/jakeh999/Ceed/blob/master/Ceed_Schematic.jpg "Technical Schematic")
 
 ## Software
 * Raspbian OS April 2018
